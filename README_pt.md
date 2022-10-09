@@ -1,42 +1,54 @@
-![UnitedSapiens Banner](https://raw.githubusercontent.com/UnitedSapiens/UnitedSapiens/main/assets/profile-banner_1500x400.png)
+![UnitedSapiens Banner](https://raw.githubusercontent.com/tecnolista/tecnolista/main/assets/profile-banner_pt.jpg)
 
-<p align="right">:uk: <a href="https://github.com/UnitedSapiens">English</a></p>
+<p align="right">:uk: <a href="https://github.com/tecnolista">English</a></p>
 
-# <img src="https://raw.githubusercontent.com/UnitedSapiens/UnitedSapiens/main/assets/hand-waving.gif" width="30px"> Olá Mundo!
+# <img src="https://raw.githubusercontent.com/tecnolista/tecnolista/main/assets/hand-waving.gif" width="30px"> Olá Mundo!
 
-<p align="justify">Bem-vindo à minha página no GitHub! Meu nome é <b>Lauro</b> e atualmente eu moro neste surreal país que chamamos de <b>Brasil</b>. Sou formado na área de Tecnologia da Informação (Full Stack Developer) e atuo no segmento de Business Intelligence como <b>Engenheiro de Machine Learning</b>. Você pode me contactar nas redes sociais abaixo, exceto Facebook claro. Se você usa facebook, a mais tóxica entre as redes sociais, então considere assistir a esse vídeo/documentário produzido pelo canal "Meteoro Brasil": <a href="https://www.youtube.com/watch?v=pIa-RE36yCw" target="_blank">10 RAZÕES PARA DELETAR SUAS REDES SOCIAIS</a>.</p>
+<p align="justify">Bem-vindo à minha página de desenvolvedor no GitHub! Meu nome é <b>Raul Bras</b> e atualmente eu moro neste país surreal que chamamos de <b>Brasil</b>. Sou formado na área de Tecnologia da Informação (Ciência da Computação) e atuo no segmento de Business Intelligence como <b>Desenvolvedor Full Stack</b>. Nas horas vagas eu costumo estudar Data Science e praticar Machine Learning. Você pode me contactar em qualquer das redes sociais abaixo.</p>
 
 <p>
-    <a href="https://twitter.com/United_Sapiens" target="_blank"><img src="https://img.shields.io/badge/twitter-%23009DF7.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> &nbsp;
-    <a href="https://www.instagram.com/united_sapiens/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23bc2a8d.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> &nbsp;
-    <a href="https://www.reddit.com/user/united_sapiens" target="_blank"><img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" height=25></a> &nbsp;
-    <a href="https://www.youtube.com/channel/UC_P9YRTAJArvjE-68gPVfYg" target="_blank"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> &nbsp;
-    <a href="https://scratch.mit.edu/users/United_Sapiens" target="_blank"><img src="https://img.shields.io/badge/scratch-%234D97FF.svg?&style=for-the-badge&logo=scratch&logoColor=white" height=25></a>
+    <a href="https://www.facebook.com/tecnolista"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=32></a> &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/tecnolista"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=32></a> &nbsp;&nbsp;
+    <a href="https://www.mql5.com/en/users/tecnolista"><img src="https://img.shields.io/badge/MQL5-%234A76B8.svg?&style=for-the-badge&logo=junit5&logoColor=white" height=32></a> &nbsp;&nbsp;
+    <a href="https://www.t.me/Tecnolista"><img src="https://img.shields.io/badge/telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=32></a> &nbsp;&nbsp;
 </p>
+
+<p align="justify">A propósito, você não verá meu nome completo, data de nascimento, endereço residencial, fotos de família ou quaisquer outros dados pessoais nessas redes sociais. Estas não são informações públicas que podem ser coletadas e vendidas por essas grandes empresas de tecnologia. E jamais instalaria qualquer aplicativo de rede social no meu telefone. Se você costuma publicar sua vida particular em qualquer rede social, então considere assistir a esse vídeo/documentário produzido pelo canal "Meteoro Brasil": <a href="https://www.youtube.com/watch?v=pIa-RE36yCw" target="_blank">10 RAZÕES PARA DELETAR SUAS REDES SOCIAIS</a></p>
 <br />
 
-# <img src="https://raw.githubusercontent.com/UnitedSapiens/UnitedSapiens/main/assets/unsap-icon.png" height="21px"> A Iniciativa [Sapiens Unidos](https://www.united-sapiens.org)
+# <img src="https://raw.githubusercontent.com/tecnolista/tecnolista/main/assets/unsap-icon.png" height="21px"> A Iniciativa [Sapiens Unidos](https://www.united-sapiens.org)
 
-<p align="justify">Ao longo desta terrível pandemia, o tenebroso número de mortes nos lembrou que a vida humana é como uma vela acesa bastando um sopro para apagar. Diante disso, resolvi colocar em prática um sonho antigo de criar uma <b>ONG</b> (Organização Não Governamental) na área de direitos humanos. O nome da iniciativa é <b>Sapiens Unidos</b> - a ideia é atuar no âmbito global.</p>
+<p align="justify">O mundo tornou-se bastante caótico e complexo nas últimas décadas, hiperconectado e em rápida mudança, mas com uma tenebrosa “vibe negativa”. Depois de milênios de civilização ainda temos guerras, massacres, genocídios, crimes hediondos, violações de direitos humanos, etc. Na minha opinião, esquecemos o mais importante ao longo da história:&nbsp; <b>SOMOS TODOS HUMANOS, UM ÚNICO POVO DE UMA ÚNICA ESPÉCIE</b>.</p>
+
+<p align="justify">Ao longo desta terrível pandemia, o assombroso número de mortes nos fez lembrar que a vida humana é como uma vela acesa bastando um sopro para se apagar. Diante disso, resolvi colocar em prática um sonho antigo de criar uma <b>ONG</b> (Organização Não Governamental) na área de direitos humanos. O nome da iniciativa é <b>United Sapiens</b> - a ideia é atuar no âmbito global. Meu principal objetivo seria apoiar os esforços das <b>Nações Unidas</b> para encontrar soluções pacíficas para conflitos internacionais e rivalidades políticas.</p>
 
 ```
+     ------ NÓS, OS SAPIENS ------
+
      NÓS SOMOS SAPIENS
-     UMA SÓ ESPÉCIE DE UM SÓ POVO
-     JUNTOS SOMOS MAIS FORTES
-     UNIDOS SOMOS INVENCÍVEIS
+     UM SÓ POVO DE UMA SÓ ESPÉCIE
+     JUNTOS SEREMOS MAIS FORTES
+     UNIDOS SEREMOS INVENCÍVEIS
 
      NINGUÉM JAMAIS NOS DIVIDIRÁ
-     POR CASTA, RAÇA OU RELIGIÃO
-     POIS NÓS SOMOS LEGIÃO
+     POR RAÇA, CASTA OU RELIGIÃO
+     NOSSA UNIÃO SE TORNARÁ LEGIÃO
      UM POR TODOS E TODOS POR UM
 ```
 
-<p align="justify">Criei uma <a href="https://github.com/United-Sapiens" target="_blank">Organização no GitHub</a> para hospedar os trabalhos da iniciativa. Vou tentar contribuir com o que sei fazer, programando e disponibilizando software livre / open source. Você também pode contribuir, mas só se você quiser...</p>
+<p align="justify">Criei uma <a href="https://github.com/United-Sapiens" target="_blank">Organização no GitHub</a> para hospedar os trabalhos da iniciativa. Vou tentar contribuir com o que sei fazer, programando e disponibilizando software livre / open source. Você também pode contribuir, mas só se você quiser. De qualquer forma, seus comentários e sugestões são sempre bem-vindos.</p>
+
+<p>
+    <a href="https://www.github.com/united-sapiens"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height=32></a> &nbsp;&nbsp;
+    <a href="https://www.instagram.com/united_sapiens"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=32></a> &nbsp;&nbsp;
+    <a href="https://www.reddit.com/user/united_sapiens"><img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" height=32></a> &nbsp;&nbsp;
+    <a href="https://www.twitter.com/United_Sapiens"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=32></a> &nbsp;&nbsp;
+</p>
 <br />
 
 # :four_leaf_clover: [Loto365 • Clube da Sorte](https://www.loto365.com.br)
 
-<p align="justify">Você aposta em Loterias? Pois é, eu tenho o hábito de apostar com um grupo de amigos. Foi uma forma que encontrei de me divertir com o conhecimento que acumulei em estatística, probabilidade, álgebra e tantos outros tópicos de matemática que utilizei no meu dia a dia enquanto trabalhava na área de Ciência de Dados com modelos de predição. Cheguei até a desenvolver um software (Lothon: Loteria & Python) para gerar bolões de apostas tentando filtrar as dezenas com maior probabilidade de sorteio e outros cálculos matemáticos mirabolantes.</p>
+<p align="justify">Você aposta em Loterias? Pois é, eu tenho o hábito de apostar com um grupo de amigos. Foi uma forma que encontrei de me divertir com o conhecimento que acumulei em estatística, probabilidade, álgebra e tantos outros tópicos de matemática que utilizei no meu dia a dia enquanto trabalhava na área de Ciência de Dados com modelos de predição. Cheguei até a desenvolver um software (Lothon: Loteria @ Python) para gerar bolões de apostas tentando filtrar as dezenas com maior probabilidade de sorteio e outros cálculos matemáticos mirabolantes.</p>
 
 <p align="justify">Começamos a acertar mais e ganhar alguns prêmios menores, principalmente na loteria "Dia de Sorte", onde a probabilidade de acerto é um pouco mais favorável. Com o tempo, criamos um <b>"Clube da Sorte"</b> e ampliamos o número de associados para aumentar o número de dezenas apostadas e mirar nos prêmios maiores.</p>
 
@@ -44,5 +56,9 @@
 <br />
 
 - - -
+
+
+"A maior recompensa para o homem que trabalha, é a consciência de ter feito o bem." &nbsp; — &nbsp; <a href="https://pt.wikipedia.org/wiki/Vital_Brazil">Vital Brasil</a>
+
 
 <h4 align="right">:vulcan_salute:&nbsp; Vida Longa e Próspera!</h4>
