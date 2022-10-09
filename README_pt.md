@@ -4,7 +4,7 @@
 
 # <img src="https://raw.githubusercontent.com/tecnolista/tecnolista/main/assets/hand-waving.gif" width="30px"> Olá Mundo!
 
-<p align="justify">Bem-vindo à minha página de desenvolvedor no GitHub! Meu nome é <b>Raul Bras</b> e atualmente eu moro neste país surreal que chamamos de <b>Brasil</b>. Sou formado na área de Tecnologia da Informação (Ciência da Computação) e atuo no segmento de Business Intelligence como <b>Desenvolvedor Full Stack</b>. Nas horas vagas eu costumo estudar Data Science e praticar Machine Learning. Você pode me contactar em qualquer das redes sociais abaixo.</p>
+<p align="justify">Bem-vindo à minha página de desenvolvedor no GitHub! Meu nome é <b>Raul Bras</b> e atualmente eu moro neste país surreal que chamamos de <b>Brasil</b>. Sou formado na área de Tecnologia da Informação (Ciência da Computação) e atuo no segmento de Business Intelligence como Desenvolvedor Full Stack. Nas horas vagas eu costumo estudar Data Science e praticar Machine Learning. Você pode me contactar em qualquer das redes sociais abaixo.</p>
 
 <p>
     <a href="https://www.facebook.com/tecnolista"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=32></a> &nbsp;&nbsp;
@@ -13,7 +13,7 @@
     <a href="https://www.t.me/Tecnolista"><img src="https://img.shields.io/badge/telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=32></a> &nbsp;&nbsp;
 </p>
 
-<p align="justify">A propósito, você não verá meu nome completo, data de nascimento, endereço residencial, fotos de família ou quaisquer outros dados pessoais nessas redes sociais. Estas não são informações públicas que podem ser coletadas e vendidas por essas grandes empresas de tecnologia. E jamais instalaria qualquer aplicativo de rede social no meu telefone. Se você costuma publicar sua vida particular em qualquer rede social, então considere assistir a esse vídeo/documentário produzido pelo canal "Meteoro Brasil": <a href="https://www.youtube.com/watch?v=pIa-RE36yCw" target="_blank">10 RAZÕES PARA DELETAR SUAS REDES SOCIAIS</a></p>
+<p align="justify">A propósito, você não verá meu nome completo, data de nascimento, endereço residencial, fotos de família ou quaisquer outros dados pessoais nessas redes sociais. Estas não são informações públicas que podem ser coletadas e vendidas pelas grandes empresas de tecnologia. E eu jamais instalaria qualquer aplicativo de rede social em meu celular. Se você costuma publicar sua vida particular em qualquer rede social, então considere assistir a esse vídeo/documentário produzido pelo canal "Meteoro Brasil": <a href="https://www.youtube.com/watch?v=pIa-RE36yCw" target="_blank">10 RAZÕES PARA DELETAR SUAS REDES SOCIAIS</a>.</p>
 <br />
 
 # <img src="https://raw.githubusercontent.com/tecnolista/tecnolista/main/assets/unsap-icon.png" height="21px"> A Iniciativa [Sapiens Unidos](https://www.united-sapiens.org)
@@ -48,7 +48,7 @@
 
 # :four_leaf_clover: [Loto365 • Clube da Sorte](https://www.loto365.com.br)
 
-<p align="justify">Você aposta em Loterias? Pois é, eu tenho o hábito de apostar com um grupo de amigos. Foi uma forma que encontrei de me divertir com o conhecimento que acumulei em estatística, probabilidade, álgebra e tantos outros tópicos de matemática que utilizei no meu dia a dia enquanto trabalhava na área de Ciência de Dados com modelos de predição. Cheguei até a desenvolver um software (Lothon: Loteria @ Python) para gerar bolões de apostas tentando filtrar as dezenas com maior probabilidade de sorteio e outros cálculos matemáticos mirabolantes.</p>
+<p align="justify">Você aposta em Loterias? Pois é, eu tenho o hábito de apostar com um grupo de amigos. Cheguei até a desenvolver um software (Lothon: Loteria @ Python) para gerar bolões de apostas tentando filtrar as dezenas com maior probabilidade de sorteio e outros cálculos matemáticos mirabolantes.</p>
 
 <p align="justify">Começamos a acertar mais e ganhar alguns prêmios menores, principalmente na loteria "Dia de Sorte", onde a probabilidade de acerto é um pouco mais favorável. Com o tempo, criamos um <b>"Clube da Sorte"</b> e ampliamos o número de associados para aumentar o número de dezenas apostadas e mirar nos prêmios maiores.</p>
 
