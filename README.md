@@ -4,7 +4,7 @@
 
 # <img src="https://raw.githubusercontent.com/tecnolista/tecnolista/main/assets/hand-waving.gif" width="30px">&nbsp; Hello World!
 
-<p align="justify">Welcome to my developer page on GitHub! My name is <b>Raul Bras</b> and I currently live in this surreal country we call <b>Brazil</b>. I have a degree in Information Technology (Computer Science) and I work in the Business Intelligence segment as a Full Stack Developer. In my free time, I like to study Data Science and practice Machine Learning using Python. You can contact me on any of the social networks below.</p>
+<p align="justify">Welcome to my developer page on GitHub! My name is Raul Bras and I currently live in this surreal country we call Brazil. I have a degree in Information Technology (Computer Science) and I work in the Business Intelligence segment as a Full Stack Developer. In my free time, I like to study Data Science and practice Machine Learning using Python. You can contact me on any of the social networks below.</p>
 
 <p>
     <a href="https://www.facebook.com/tecnolista"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=32></a> &nbsp;&nbsp;
@@ -19,9 +19,9 @@
 
 # <img src="https://raw.githubusercontent.com/tecnolista/tecnolista/main/assets/unsap-icon.png" height="22px">&nbsp; The [United Sapiens](https://www.united-sapiens.org) Initiative
 
-<p align="justify">The world has become quite chaotic and complex in the last few decades, hyperconnected and fast-changing, yet with a total “bad vibe". After millennia of civilization we still have wars, massacres, genocides, heinous crimes, human rights violations, etc. In my opinion, we have forgotten the most important thing throughout history:&nbsp; <b>WE ARE ALL HUMANS, A SINGLE PEOPLE OF A SINGLE SPECIES</b>.</p>
+<p align="justify">The world has become quite chaotic and complex in the last few decades, hyperconnected and fast-changing, yet with a total “bad vibe". After millennia of civilization we still have wars, massacres, genocides, heinous crimes, human rights violations, etc. In my opinion, we have forgotten the most important thing throughout history:&nbsp; WE ARE ALL HUMANS, A SINGLE PEOPLE OF A SINGLE SPECIES.</p>
 
-<p align="justify">Throughout this terrible pandemic, the immense number of deaths reminded us that human life is like a burning candle, just a blow to extinguish it. In view of this, I decided to put into practice an old dream of creating an <b>NGO</b> (Non-Governmental Organization) in the area of human rights. The name of the initiative is <b>United Sapiens</b> - the idea is to act globally. My main goal would be to support the <b>United Nations</b>' efforts to find peaceful solutions to international conflicts and political rivalries.</p>
+<p align="justify">Throughout this terrible pandemic, the immense number of deaths reminded us that human life is like a burning candle, just a blow to extinguish it. In view of this, I decided to put into practice an old dream of creating an NGO (Non-Governmental Organization) in the area of human rights. The name of the initiative is United Sapiens - the idea is to act globally. My main goal would be to support the United Nations' efforts to find peaceful solutions to international conflicts and political rivalries.</p>
 
 ```
      ------ WE THE SAPIENS ------
@@ -48,9 +48,8 @@
 <br />
 
 - - -
-
+<br />
 
 > "The greatest reward for the man who works is the consciousness of having done good." &nbsp; — &nbsp; <a href="https://en.wikipedia.org/wiki/Vital_Brazil">Vital Brasil</a>
-
 
 <h4 align="right">:vulcan_salute:&nbsp; Live Long and Prosper.</h4>

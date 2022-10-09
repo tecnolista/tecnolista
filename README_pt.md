@@ -4,7 +4,7 @@
 
 # <img src="https://raw.githubusercontent.com/tecnolista/tecnolista/main/assets/hand-waving.gif" width="30px"> Olá Mundo!
 
-<p align="justify">Bem-vindo à minha página de desenvolvedor no GitHub! Meu nome é <b>Raul Bras</b> e atualmente eu moro neste país surreal que chamamos de <b>Brasil</b>. Sou formado na área de Tecnologia da Informação (Ciência da Computação) e atuo no segmento de Business Intelligence como Desenvolvedor Full Stack. Nas horas vagas eu costumo estudar Data Science e praticar Machine Learning. Você pode me contactar em qualquer das redes sociais abaixo.</p>
+<p align="justify">Bem-vindo à minha página de desenvolvedor no GitHub! Meu nome é Raul Bras e atualmente eu moro neste país surreal que chamamos de Brasil. Sou formado na área de Tecnologia da Informação (Ciência da Computação) e atuo no segmento de Business Intelligence como Desenvolvedor Full Stack. Nas horas vagas eu costumo estudar Data Science e praticar Machine Learning. Você pode me contactar em qualquer das redes sociais abaixo.</p>
 
 <p>
     <a href="https://www.facebook.com/tecnolista"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=32></a> &nbsp;&nbsp;
@@ -18,9 +18,9 @@
 
 # <img src="https://raw.githubusercontent.com/tecnolista/tecnolista/main/assets/unsap-icon.png" height="21px"> A Iniciativa [Sapiens Unidos](https://www.united-sapiens.org)
 
-<p align="justify">O mundo tornou-se bastante caótico e complexo nas últimas décadas, hiperconectado e em rápida mudança, mas com uma tenebrosa “vibe negativa”. Depois de milênios de civilização ainda temos guerras, massacres, genocídios, crimes hediondos, violações de direitos humanos, etc. Na minha opinião, esquecemos o mais importante ao longo da história:&nbsp; <b>SOMOS TODOS HUMANOS, UM ÚNICO POVO DE UMA ÚNICA ESPÉCIE</b>.</p>
+<p align="justify">O mundo tornou-se bastante caótico e complexo nas últimas décadas, hiperconectado e em rápida mudança, mas com uma tenebrosa “vibe negativa”. Depois de milênios de civilização ainda temos guerras, massacres, genocídios, crimes hediondos, violações de direitos humanos, etc. Na minha opinião, esquecemos o mais importante ao longo da história:&nbsp; SOMOS TODOS HUMANOS, UM ÚNICO POVO DE UMA ÚNICA ESPÉCIE.</p>
 
-<p align="justify">Ao longo desta terrível pandemia, o assombroso número de mortes nos fez lembrar que a vida humana é como uma vela acesa bastando um sopro para se apagar. Diante disso, resolvi colocar em prática um sonho antigo de criar uma <b>ONG</b> (Organização Não Governamental) na área de direitos humanos. O nome da iniciativa é <b>United Sapiens</b> - a ideia é atuar no âmbito global. Meu principal objetivo seria apoiar os esforços das <b>Nações Unidas</b> para encontrar soluções pacíficas para conflitos internacionais e rivalidades políticas.</p>
+<p align="justify">Ao longo desta terrível pandemia, o assombroso número de mortes nos fez lembrar que a vida humana é como uma vela acesa bastando um sopro para se apagar. Diante disso, resolvi colocar em prática um sonho antigo de criar uma ONG (Organização Não Governamental) na área de direitos humanos. O nome da iniciativa é United Sapiens - a ideia é atuar no âmbito global. Meu principal objetivo seria apoiar os esforços das Nações Unidas para encontrar soluções pacíficas para conflitos internacionais e rivalidades políticas.</p>
 
 ```
      ------ NÓS, OS SAPIENS ------
@@ -50,9 +50,9 @@
 
 <p align="justify">Você aposta em Loterias? Pois é, eu tenho o hábito de apostar com um grupo de amigos. Cheguei até a desenvolver um software (Lothon: Loteria @ Python) para gerar bolões de apostas tentando filtrar as dezenas com maior probabilidade de sorteio e outros cálculos matemáticos mirabolantes.</p>
 
-<p align="justify">Começamos a acertar mais e ganhar alguns prêmios menores, principalmente na loteria "Dia de Sorte", onde a probabilidade de acerto é um pouco mais favorável. Com o tempo, criamos um <b>"Clube da Sorte"</b> e ampliamos o número de associados para aumentar o número de dezenas apostadas e mirar nos prêmios maiores.</p>
+<p align="justify">Começamos a acertar mais e ganhar alguns prêmios menores, principalmente na loteria "Dia de Sorte", onde a probabilidade de acerto é um pouco mais favorável. Com o tempo, criamos um "Clube da Sorte" e ampliamos o número de associados para aumentar o número de dezenas apostadas e mirar nos prêmios maiores.</p>
 
-<p align="justify">Esta aventura acabou evoluindo para uma startup no segmento de entretenimento, mais especificamente loterias e apostas esportivas: uma <b>"Gambling Tech Startup"</b>. O nome da Startup é <b>"<a href="https://www.loto365.com.br" target="_blank">Loto365 • Clube da Sorte"</a></b>  e já está em funcionamento. É possível apostar nas loterias da Caixa Econômica Federal nos 365 dias do ano, de forma 100% online. Caso seja contemplado em alguma aposta, o valor de rateio será depositado automaticamente na conta-corrente do associado. Confira lá e participe dos bolões.</p>
+<p align="justify">Esta aventura acabou evoluindo para uma startup no segmento de entretenimento, mais especificamente loterias e apostas esportivas: uma "Gambling Tech Startup". O nome da Startup é "<a href="https://www.loto365.com.br" target="_blank">Loto365 • Clube da Sorte"</a>  e já está em funcionamento. É possível apostar nas loterias da Caixa Econômica Federal nos 365 dias do ano, de forma 100% online. Caso seja contemplado em alguma aposta, o valor de rateio será depositado automaticamente na conta-corrente do associado. Confira lá e participe dos bolões.</p>
 <br />
 
 - - -
