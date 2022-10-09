@@ -50,7 +50,7 @@
 - - -
 
 
-"The greatest reward for the man who works is the consciousness of having done good." &nbsp; — &nbsp; <a href="https://en.wikipedia.org/wiki/Vital_Brazil">Vital Brasil</a>
+> "The greatest reward for the man who works is the consciousness of having done good." &nbsp; — &nbsp; <a href="https://en.wikipedia.org/wiki/Vital_Brazil">Vital Brasil</a>
 
 
 <h4 align="right">:vulcan_salute:&nbsp; Live Long and Prosper.</h4>
