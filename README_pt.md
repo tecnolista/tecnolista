@@ -1,4 +1,4 @@
-![UnitedSapiens Banner](https://raw.githubusercontent.com/tecnolista/tecnolista/main/assets/profile-banner_pt.jpg)
+![UnitedSapiens Banner](https://raw.githubusercontent.com/tecnolista/tecnolista/main/assets/profile-banner.png)
 
 <p align="right">:uk: <a href="https://github.com/tecnolista">English</a></p>
 
@@ -53,7 +53,7 @@
 
 <p align="justify">Comentei com alguns amigos e resolvemos criar um grupo para apostar com bolões. Aos poucos fui melhorando o Lothon e começamos a acertar mais e ganhar alguns prêmios menores, principalmente na loteria "Dia de Sorte", onde a probabilidade de acerto é um pouco mais favorável. Com o tempo, criamos um "Clube da Sorte" e ampliamos o número de apostadores para custear um número maior de dezenas nos jogos e mirar nos prêmios maiores. Sempre apostando apenas nas loterias "Dia de Sorte" e "Lotofácil".</p>
 
-<p align="justify">Esta aventura acabou evoluindo para uma humilde startup no segmento de entretenimento, mais especificamente loterias e apostas esportivas: uma "Gambling Tech Startup". O nome deste empreendimento é "<a href="https://www.loto365.com.br" target="_blank">Loto365 • Clube da Sorte"</a> e já está em funcionamento. É possível apostar nas loterias da Caixa Econômica Federal nos 365 dias do ano, de forma 100% online. Caso seja contemplado em alguma aposta, o valor de rateio será depositado automaticamente na conta-corrente do associado. Confira lá e participe dos nossos bolões! <b>Restrito a 18+.</b></p>
+<p align="justify">Esta aventura acabou evoluindo para uma humilde startup no segmento de entretenimento, mais especificamente loterias e apostas esportivas: uma "Gambling Tech Startup". O nome deste empreendimento é "<a href="https://www.loto365.com.br" target="_blank">Loto365 • Clube da Sorte"</a> e já está em funcionamento. É possível apostar nas loterias da Caixa Econômica Federal nos 365 dias do ano, de forma 100% online. Caso seja contemplado em alguma aposta, o valor de rateio será depositado automaticamente na conta-corrente do associado. Confira lá e participe dos nossos bolões. Restrito a 18+.</p>
 <br />
 
 - - -

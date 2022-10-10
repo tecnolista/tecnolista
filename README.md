@@ -1,4 +1,4 @@
-![UnitedSapiens Banner](https://raw.githubusercontent.com/tecnolista/tecnolista/main/assets/profile-banner_en.jpg)
+![UnitedSapiens Banner](https://raw.githubusercontent.com/tecnolista/tecnolista/main/assets/profile-banner.png)
 
 <p align="right">:brazil: <a href="https://github.com/tecnolista/tecnolista/blob/main/README_pt.md">Português</a></p>
 
