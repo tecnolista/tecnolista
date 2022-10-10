@@ -37,7 +37,7 @@
      ONE FOR ALL AND ALL FOR ONE
 ```
 
-<p align="justify">I created a <a href="https://github.com/united-sapiens">GitHub Organization</a> to host the initiative's project. I'll try to contribute with what I know, programming and making free / open source software available. You can also contribute, but only if you want to. Anyway, your comments and suggestions are always welcome.</p>
+<p align="justify">I created a <a href="https://github.com/united-sapiens">GitHub Organization</a> to host the initiative's project. I'll try to contribute with what I know how to do, programming and writing the project documentation. All the implemented code will be made available as free and open source software (public domain). You can also contribute, but only if you want to. Anyway, your comments and suggestions are always welcome.</p>
 
 <p>
     <a href="https://www.github.com/united-sapiens"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height=32></a> &nbsp;&nbsp;

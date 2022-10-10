@@ -4,7 +4,7 @@
 
 # <img src="https://raw.githubusercontent.com/tecnolista/tecnolista/main/assets/hand-waving.gif" width="30px"> Olá Mundo!
 
-<p align="justify">Bem-vindo à minha página de desenvolvedor no GitHub! Meu nome é Raul Bras e atualmente eu moro neste país surreal que chamamos de Brasil. Sou formado na área de Tecnologia da Informação (Ciência da Computação) e atuo no segmento de Business Intelligence como Desenvolvedor Full Stack. Nas horas vagas eu costumo estudar Data Science e praticar Machine Learning. Você pode me contactar em qualquer das redes sociais abaixo.</p>
+<p align="justify">Bem-vindo à minha página de desenvolvedor no GitHub! Meu nome é Raul Bras e atualmente eu moro neste país surreal que chamamos de Brasil. Sou formado na área de Tecnologia da Informação (Ciência da Computação) e atuo no segmento de Business Intelligence (BI) como Desenvolvedor Full Stack. Nas horas vagas eu costumo estudar Data Science e praticar Machine Learning. Você pode me contactar em qualquer das redes sociais abaixo.</p>
 
 <p>
     <a href="https://www.facebook.com/tecnolista"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=32></a> &nbsp;&nbsp;
@@ -36,7 +36,7 @@
      UM POR TODOS E TODOS POR UM
 ```
 
-<p align="justify">Criei uma <a href="https://github.com/United-Sapiens" target="_blank">Organização no GitHub</a> para hospedar os trabalhos da iniciativa. Vou tentar contribuir com o que sei fazer, programando e disponibilizando software livre / open source. Você também pode contribuir, mas só se você quiser. De qualquer forma, seus comentários e sugestões são sempre bem-vindos.</p>
+<p align="justify">Criei uma <a href="https://github.com/United-Sapiens" target="_blank">Organização no GitHub</a> para hospedar os trabalhos da iniciativa. Vou tentar contribuir com o que sei fazer, programando e redigindo a documentação do projeto. Todo software implementado será disponibilizado como software livre e open source (domínio público). Você também pode contribuir, mas só se você quiser. De qualquer forma, seus comentários e sugestões são sempre bem-vindos.</p>
 
 <p>
     <a href="https://www.github.com/united-sapiens"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height=32></a> &nbsp;&nbsp;
@@ -49,17 +49,17 @@
 
 # :four_leaf_clover: [Loto365 • Clube da Sorte](https://www.loto365.com.br)
 
-<p align="justify">Você aposta em Loterias? Pois é, eu tenho o hábito de apostar com um grupo de amigos. Cheguei até a desenvolver um software (Lothon: Loteria @ Python) para gerar bolões de apostas tentando filtrar as dezenas com maior probabilidade de sorteio e outros cálculos matemáticos mirabolantes.</p>
+<p align="justify">Você aposta em Loterias? Pois é, eu tenho o hábito de apostar - aquela fezinha semanal “inocente”. Aí depois que entrei na área de BI a coisa ficou mais séria - resolvi melhorar meus palpites aplicando o que aprendi nos cursos de estatística e machine learning. Cheguei até a desenvolver um software (Lothon: Loteria em Python) para gerar palpites de apostas tentando filtrar as dezenas com maior probabilidade de sorteio e outros cálculos matemáticos mirabolantes.</p>
 
-<p align="justify">Começamos a acertar mais e ganhar alguns prêmios menores, principalmente na loteria "Dia de Sorte", onde a probabilidade de acerto é um pouco mais favorável. Com o tempo, criamos um "Clube da Sorte" e ampliamos o número de associados para aumentar o número de dezenas apostadas e mirar nos prêmios maiores.</p>
+<p align="justify">Comentei com alguns amigos e resolvemos criar um grupo para apostar com bolões. Aos poucos fui melhorando o Lothon e começamos a acertar mais e ganhar alguns prêmios menores, principalmente na loteria "Dia de Sorte", onde a probabilidade de acerto é um pouco mais favorável. Com o tempo, criamos um "Clube da Sorte" e ampliamos o número de apostadores para custear um número maior de dezenas nos jogos e mirar nos prêmios maiores. Sempre apostando apenas nas loterias "Dia de Sorte" e "Lotofácil".</p>
 
-<p align="justify">Esta aventura acabou evoluindo para uma startup no segmento de entretenimento, mais especificamente loterias e apostas esportivas: uma "Gambling Tech Startup". O nome da Startup é "<a href="https://www.loto365.com.br" target="_blank">Loto365 • Clube da Sorte"</a>  e já está em funcionamento. É possível apostar nas loterias da Caixa Econômica Federal nos 365 dias do ano, de forma 100% online. Caso seja contemplado em alguma aposta, o valor de rateio será depositado automaticamente na conta-corrente do associado. Confira lá e participe dos bolões.</p>
+<p align="justify">Esta aventura acabou evoluindo para uma humilde startup no segmento de entretenimento, mais especificamente loterias e apostas esportivas: uma "Gambling Tech Startup". O nome deste empreendimento é "<a href="https://www.loto365.com.br" target="_blank">Loto365 • Clube da Sorte"</a> e já está em funcionamento. É possível apostar nas loterias da Caixa Econômica Federal nos 365 dias do ano, de forma 100% online. Caso seja contemplado em alguma aposta, o valor de rateio será depositado automaticamente na conta-corrente do associado. Confira lá e participe dos nossos bolões! <b>Restrito a 18+.</b></p>
 <br />
 
 - - -
 
 
-"A maior recompensa para o homem que trabalha, é a consciência de ter feito o bem." &nbsp; — &nbsp; <a href="https://pt.wikipedia.org/wiki/Vital_Brazil">Vital Brasil</a>
+"A maior recompensa para o homem que trabalha é a consciência de ter feito o bem." &nbsp; — &nbsp; <a href="https://pt.wikipedia.org/wiki/Vital_Brazil">Vital Brasil</a>
 
 
 <h4 align="right">:vulcan_salute:&nbsp; Vida Longa e Próspera!</h4>
