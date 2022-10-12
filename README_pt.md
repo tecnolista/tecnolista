@@ -4,7 +4,7 @@
 
 # <img src="https://raw.githubusercontent.com/tecnolista/tecnolista/main/assets/hand-waving.gif" width="30px"> Olá Mundo!
 
-<p align="justify">Bem-vindo à minha página de desenvolvedor no GitHub! Meu nome é Raul Bras e atualmente eu moro neste país surreal que chamamos de Brasil. Sou formado na área de Tecnologia da Informação (Ciência da Computação) e atuo no segmento de Business Intelligence (BI) como Desenvolvedor Full Stack. Nas horas vagas eu costumo estudar Data Science e praticar Machine Learning. Você pode me contactar em qualquer das redes sociais abaixo.</p>
+<p align="justify">Bem-vindo à minha página de desenvolvedor no GitHub! Meu nome é Raul Bras e atualmente eu moro neste país surreal que chamamos de Brasil. Sou formado na área de Tecnologia da Informação (Ciência da Computação) e atuo no segmento de Business Intelligence (BI) como Desenvolvedor Web Full Stack. Nas horas vagas eu costumo estudar Data Science e praticar Machine Learning. Você pode me contactar em qualquer das redes sociais abaixo.</p>
 
 <p>
     <a href="https://www.facebook.com/tecnolista"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=32></a> &nbsp;&nbsp;
@@ -53,13 +53,13 @@
 
 <p align="justify">Comentei com alguns amigos e resolvemos criar um grupo para apostar com bolões. Aos poucos fui melhorando o Lothon e começamos a acertar mais e ganhar alguns prêmios menores, principalmente na loteria "Dia de Sorte", onde a probabilidade de acerto é um pouco mais favorável. Com o tempo, criamos um "Clube da Sorte" e ampliamos o número de apostadores para custear um número maior de dezenas nos jogos e mirar nos prêmios maiores. Sempre apostando apenas nas loterias "Dia de Sorte" e "Lotofácil".</p>
 
-<p align="justify">Esta aventura acabou evoluindo para uma humilde startup no segmento de entretenimento, mais especificamente loterias e apostas esportivas: uma "Gambling Tech Startup". O nome deste empreendimento é "<a href="https://www.loto365.com.br" target="_blank">Loto365 • Clube da Sorte"</a> e já está em funcionamento. É possível apostar nas loterias da Caixa Econômica Federal nos 365 dias do ano, de forma 100% online. Caso seja contemplado em alguma aposta, o valor de rateio será depositado automaticamente na conta-corrente do associado. Confira lá e participe dos nossos bolões. Restrito a 18+.</p>
+<p align="justify">Esta aventura acabou evoluindo para uma humilde startup no segmento de entretenimento, mais especificamente loterias e apostas esportivas: uma "Gambling Tech Startup". O nome deste empreendimento é "<a href="https://www.loto365.com.br" target="_blank">Loto365 • Clube da Sorte"</a> e já está em funcionamento. É possível apostar nas loterias da Caixa Econômica Federal nos 365 dias do ano, de forma 100% online. Caso seja contemplado em alguma aposta, o valor de rateio será depositado automaticamente na conta-corrente do participante. Confira lá e participe dos nossos bolões. Restrito a 18+.</p>
 <br />
 
 - - -
 
 
-"A maior recompensa para o homem que trabalha é a consciência de ter feito o bem." &nbsp; — &nbsp; <a href="https://pt.wikipedia.org/wiki/Vital_Brazil">Vital Brasil</a>
+> "A maior recompensa para o homem que trabalha é a consciência de ter feito o bem." &nbsp; — &nbsp; <a href="https://pt.wikipedia.org/wiki/Vital_Brazil">Vital Brasil</a>
 
 
-<h4 align="right">:vulcan_salute:&nbsp; Vida Longa e Próspera!</h4>
+<h4 align="right">:vulcan_salute:&nbsp; Vida Longa e Próspera.</h4>

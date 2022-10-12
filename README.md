@@ -4,7 +4,7 @@
 
 # <img src="https://raw.githubusercontent.com/tecnolista/tecnolista/main/assets/hand-waving.gif" width="30px">&nbsp; Hello World!
 
-<p align="justify">Welcome to my developer page on GitHub! My name is Raul Bras and I currently live in this surreal country we call Brazil. I have a degree in Information Technology (Computer Science) and I work in the Business Intelligence segment as a Full Stack Developer. In my free time, I like to study Data Science and practice Machine Learning using Python. You can contact me on any of the social networks below.</p>
+<p align="justify">Welcome to my developer page on GitHub! My name is Raul Bras and I currently live in this surreal country we call Brazil. I have a degree in Information Technology (Computer Science) and I work in the Business Intelligence segment as a Full Stack Web Developer. In my free time, I like to study Data Science and practice Machine Learning using Python. You can contact me on any of the social networks below.</p>
 
 <p>
     <a href="https://www.facebook.com/tecnolista"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=32></a> &nbsp;&nbsp;
@@ -49,8 +49,9 @@
 <br />
 
 - - -
-<br />
+
 
 > "The greatest reward for the man who works is the consciousness of having done good." &nbsp; — &nbsp; <a href="https://en.wikipedia.org/wiki/Vital_Brazil">Vital Brasil</a>
+
 
 <h4 align="right">:vulcan_salute:&nbsp; Live Long and Prosper.</h4>
