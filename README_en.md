@@ -17,7 +17,7 @@
 <br />
 
 
-# <img src="https://raw.githubusercontent.com/tecnolista/tecnolista/main/assets/unsap-icon.png" height="22px">&nbsp; The [United Sapiens](https://www.united-sapiens.org) Initiative
+# <img src="https://raw.githubusercontent.com/tecnolista/tecnolista/main/assets/unsap-icon.png" height="24px">&nbsp; The [United Sapiens](https://www.united-sapiens.org) Initiative
 
 <p align="justify">The world has become quite chaotic and complex in the last few decades, hyperconnected and fast-changing, yet with a total “bad vibe". After millennia of civilization we still have wars, massacres, genocides, heinous crimes, human rights violations, etc. In my opinion, we have forgotten the most important thing throughout history:&nbsp; WE ARE ALL HUMANS, A SINGLE PEOPLE OF A SINGLE SPECIES.</p>
 

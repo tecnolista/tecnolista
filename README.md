@@ -16,7 +16,7 @@
 <p align="justify">A propósito, você não verá meu nome completo, data de nascimento, endereço residencial, fotos de família ou quaisquer outros dados pessoais nessas redes sociais. Estas não são informações públicas que podem ser coletadas e vendidas pelas grandes empresas de tecnologia. E eu jamais instalaria qualquer aplicativo de rede social em meu celular. Se você costuma publicar sua vida particular em qualquer rede social, então considere assistir a esse vídeo/documentário produzido pelo canal "Meteoro Brasil": <a href="https://www.youtube.com/watch?v=pIa-RE36yCw" target="_blank">10 RAZÕES PARA DELETAR SUAS REDES SOCIAIS</a>.</p>
 <br />
 
-# <img src="https://raw.githubusercontent.com/tecnolista/tecnolista/main/assets/unsap-icon.png" height="21px"> A Iniciativa [Sapiens Unidos](https://www.united-sapiens.org)
+# <img src="https://raw.githubusercontent.com/tecnolista/tecnolista/main/assets/unsap-icon.png" height="24px"> A Iniciativa [Sapiens Unidos](https://www.united-sapiens.org)
 
 <p align="justify">O mundo tornou-se bastante caótico e complexo nas últimas décadas, hiperconectado e em rápida mudança, mas com uma tenebrosa “vibe negativa”. Depois de milênios de civilização ainda temos guerras, massacres, genocídios, crimes hediondos, violações de direitos humanos, etc. Na minha opinião, esquecemos o mais importante ao longo da história:&nbsp; SOMOS TODOS HUMANOS, UM ÚNICO POVO DE UMA ÚNICA ESPÉCIE.</p>
 
