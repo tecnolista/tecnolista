@@ -41,9 +41,8 @@
 
 <p>
     <a href="https://www.github.com/united-sapiens"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height=32></a> &nbsp;&nbsp;
-    <a href="https://www.instagram.com/united_sapiens"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=32></a> &nbsp;&nbsp;
-    <a href="https://www.reddit.com/user/united_sapiens"><img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" height=32></a> &nbsp;&nbsp;
     <a href="https://www.twitter.com/United_Sapiens"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=32></a> &nbsp;&nbsp;
+    <a href="https://www.instagram.com/united_sapiens"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=32></a> &nbsp;&nbsp;
     <a href="https://www.youtube.com/channel/UCUf4NOsEr_0pMNMKK25CPAg"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=32></a>
 </p>
 <br />

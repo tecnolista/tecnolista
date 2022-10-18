@@ -16,6 +16,7 @@
 <p align="justify">A propósito, você não verá meu nome completo, data de nascimento, endereço residencial, fotos de família ou quaisquer outros dados pessoais nessas redes sociais. Estas não são informações públicas que podem ser coletadas e vendidas pelas grandes empresas de tecnologia. E eu jamais instalaria qualquer aplicativo de rede social em meu celular. Se você costuma publicar sua vida particular em qualquer rede social, então considere assistir a esse vídeo/documentário produzido pelo canal "Meteoro Brasil": <a href="https://www.youtube.com/watch?v=pIa-RE36yCw" target="_blank">10 RAZÕES PARA DELETAR SUAS REDES SOCIAIS</a>.</p>
 <br />
 
+
 # <img src="https://raw.githubusercontent.com/tecnolista/tecnolista/main/assets/unsap-icon.png" height="24px"> A Iniciativa [Sapiens Unidos](https://www.united-sapiens.org)
 
 <p align="justify">O mundo tornou-se bastante caótico e complexo nas últimas décadas, hiperconectado e em rápida mudança, mas com uma tenebrosa “vibe negativa”. Depois de milênios de civilização ainda temos guerras, massacres, genocídios, crimes hediondos, violações de direitos humanos, etc. Na minha opinião, esquecemos o mais importante ao longo da história:&nbsp; SOMOS TODOS HUMANOS, UM ÚNICO POVO DE UMA ÚNICA ESPÉCIE.</p>
@@ -40,12 +41,12 @@
 
 <p>
     <a href="https://www.github.com/united-sapiens"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height=32></a> &nbsp;&nbsp;
-    <a href="https://www.instagram.com/united_sapiens"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=32></a> &nbsp;&nbsp;
-    <a href="https://www.reddit.com/user/united_sapiens"><img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" height=32></a> &nbsp;&nbsp;
     <a href="https://www.twitter.com/United_Sapiens"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=32></a> &nbsp;&nbsp;
+    <a href="https://www.instagram.com/united_sapiens"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=32></a> &nbsp;&nbsp;
     <a href="https://www.youtube.com/channel/UCUf4NOsEr_0pMNMKK25CPAg"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=32></a>
 </p>
 <br />
+
 
 # :four_leaf_clover: [Loto365 • Clube da Sorte](https://www.loto365.com.br)
 
