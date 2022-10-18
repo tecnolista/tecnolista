@@ -55,9 +55,9 @@
 <p align="justify">Comentei com alguns amigos e resolvemos criar um grupo para apostar com bolões. Aos poucos fui melhorando o Lothon e começamos a acertar mais e ganhar alguns prêmios menores, principalmente na loteria "Dia de Sorte", onde a probabilidade de acerto é um pouco mais favorável. Com o tempo, criamos um "Clube da Sorte" e ampliamos o número de apostadores para custear um número maior de dezenas nos jogos e mirar nos prêmios maiores. Sempre apostando apenas nas loterias "Dia de Sorte" e "Lotofácil".</p>
 
 <p align="justify">Esta aventura acabou evoluindo para um humilde empreendimento no segmento de entretenimento, mais especificamente loterias e apostas esportivas: uma "Gambling Tech Startup". O nome deste empreendimento é "<a href="https://www.loto365.com.br" target="_blank">Loto365 • Clube da Sorte"</a> e já está em funcionamento. É possível apostar nas loterias da Caixa Econômica Federal nos 365 dias do ano, de forma 100% online. Caso seja contemplado em alguma aposta, o valor de rateio será depositado automaticamente na conta-corrente do participante. Confira lá e participe dos nossos bolões. Restrito a 18+.</p>
-<br />
 
 - - -
+<br />
 
 
 > "A maior recompensa para o homem que trabalha é a consciência de ter feito o bem." &nbsp; — &nbsp; <a href="https://pt.wikipedia.org/wiki/Vital_Brazil">Vital Brasil</a>

@@ -45,9 +45,9 @@
     <a href="https://www.instagram.com/united_sapiens"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=32></a> &nbsp;&nbsp;
     <a href="https://www.youtube.com/channel/UCUf4NOsEr_0pMNMKK25CPAg"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=32></a>
 </p>
-<br />
 
 - - -
+<br />
 
 
 > "The greatest reward for the man who works is the consciousness of having done good." &nbsp; — &nbsp; <a href="https://en.wikipedia.org/wiki/Vital_Brazil">Vital Brasil</a>
