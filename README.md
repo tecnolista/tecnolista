@@ -19,9 +19,9 @@
 
 # <img src="https://raw.githubusercontent.com/tecnolista/tecnolista/main/assets/unsap-icon.png" height="24px"> A Iniciativa [Sapiens Unidos](https://www.united-sapiens.org)
 
-<p align="justify">O mundo tornou-se bastante caótico e complexo nas últimas décadas, hiperconectado e em rápida mudança, mas com uma tenebrosa “vibe negativa”. Depois de milênios de civilização ainda temos guerras, massacres, genocídios, crimes hediondos, violações de direitos humanos, etc. Na minha opinião, esquecemos o mais importante ao longo da história:&nbsp; SOMOS TODOS HUMANOS, UM ÚNICO POVO DE UMA ÚNICA ESPÉCIE.</p>
+<p align="justify">O mundo tornou-se bastante caótico e complexo nas últimas décadas, hiperconectado e em rápida mudança, mas com uma tenebrosa “vibe negativa” decorrente da ascenção da extrema direita em vários países. Depois de milênios de civilização ainda temos guerras, massacres, genocídios, crimes hediondos, violações de direitos humanos, etc. Na minha opinião, esquecemos o mais importante ao longo da história: somos todos humanos, um único povo de uma única espécie. Somos <a href="">Sapiens</a>, a última espécie sobrevivente da linhagem Homo. Temos a enorme responsabilidade de manter a evolução em curso para garantir o surgimento e sobrevivência da próxima espécie. Temos o dever de deixar um mundo melhor para nossos descendentes.</p>
 
-<p align="justify">Ao longo desta terrível pandemia, o assombroso número de mortes nos fez lembrar que a vida humana é como uma vela acesa bastando um sopro para se apagar. Diante disso, resolvi colocar em prática um sonho antigo de criar uma ONG (Organização Não Governamental) na área de direitos humanos. O nome da iniciativa é United Sapiens - a ideia é atuar no âmbito global. Meu principal objetivo seria apoiar os esforços das Nações Unidas para encontrar soluções pacíficas para conflitos internacionais e rivalidades políticas.</p>
+<p align="justify">Ao longo desta terrível pandemia, o assombroso número de mortes nos fez lembrar que a vida humana é como uma vela acesa bastando um sopro para se apagar. Diante disso, resolvi colocar em prática um sonho antigo na área de direitos humanos. O nome da iniciativa é "Sapiens Unidos"; a ideia é atuar nas relações internacionais entre países para resguardar democracias em risco. À medida que mais países se tornem membros, esta iniciativa poderia evoluir para uma organização intergovernamental, visando promover a cooperação e troca de experiências entre países com políticas verdadeiramente social-democráticas. Países que tenham um compromisso estabelecido juridicamente com a democracia e que pretendam se manter livres do autoritarismo ou qualquer outro "ismo" que ameace sua democracia.</p>
 
 ```
      ------ NÓS, OS SAPIENS ------
@@ -37,7 +37,7 @@
      UM POR TODOS E TODOS POR UM
 ```
 
-<p align="justify">Criei uma <a href="https://github.com/United-Sapiens" target="_blank">Organização no GitHub</a> para hospedar os trabalhos da iniciativa. Vou tentar contribuir com o que sei fazer, programando e redigindo a documentação do projeto. Todo software implementado será disponibilizado como software livre e open source (domínio público). Você também pode contribuir, mas só se você quiser. De qualquer forma, seus comentários e sugestões são sempre bem-vindos.</p>
+<p align="justify">Iniciei uma <a href="https://github.com/United-Sapiens" target="_blank">Organização no GitHub</a> para hospedar os trabalhos da iniciativa. Também criei o mantra "Nós, Os Sapiens", um pequeno texto na forma de poema, para tentar "plantar a ideia" de que um mundo melhor é possível. Vou tentar contribuir com o que sei fazer, programando e redigindo a documentação do projeto. Todo software implementado será disponibilizado como software livre e open source (domínio público). Você também pode contribuir, mas só se você quiser. De qualquer forma, seus comentários e sugestões são sempre bem-vindos.</p>
 
 <p>
     <a href="https://www.github.com/united-sapiens"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height=32></a> &nbsp;&nbsp;
