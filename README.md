@@ -1,10 +1,8 @@
 ![UnitedSapiens Banner](https://raw.githubusercontent.com/tecnolista/tecnolista/main/assets/profile-banner.png)
 
-<p align="right">:uk: <a href="https://github.com/tecnolista/tecnolista/blob/main/README_en.md">English</a></p>
-
 # <img src="https://raw.githubusercontent.com/tecnolista/tecnolista/main/assets/hand-waving.gif" width="30px"> Olá Mundo!
 
-<p align="justify">Bem-vindo à minha página de desenvolvedor no GitHub! Meu nome é Raul Bras e atualmente eu moro neste país surreal que chamamos de Brasil. Sou formado na área de Tecnologia da Informação (Ciência da Computação) e atuo no segmento de Business Intelligence (BI) como Desenvolvedor Web Full Stack. Nas horas vagas eu costumo estudar Data Science e praticar Machine Learning. Você pode me contactar em qualquer das redes sociais abaixo.</p>
+<p align="justify">Bem-vindo à minha página de desenvolvedor no GitHub! Meu nome é Raul Bras e atualmente eu moro neste país surreal que chamamos de Brasil. Sou formado na área de Tecnologia da Informação (Ciência da Computação) e atuo no segmento de Business Intelligence (BI) como Desenvolvedor Web Full Stack. Nas horas vagas eu costumo estudar Data Science e praticar Machine Learning. Você pode me contatar em qualquer das redes sociais abaixo.</p>
 
 <p>
     <a href="https://www.facebook.com/tecnolista"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=32></a> &nbsp;&nbsp;
@@ -19,14 +17,14 @@
 
 # <img src="https://raw.githubusercontent.com/tecnolista/tecnolista/main/assets/unsap-icon.png" height="24px"> A Iniciativa [Sapiens Unidos](https://www.united-sapiens.org)
 
-<p align="justify">O mundo tornou-se bastante caótico e complexo nas últimas décadas, hiperconectado e em rápida mudança, mas com uma tenebrosa “vibe negativa” decorrente da ascenção da extrema direita em vários países. Depois de milênios de civilização ainda temos guerras, massacres, genocídios, crimes hediondos, violações de direitos humanos, etc. Na minha opinião, esquecemos o mais importante ao longo da história: somos todos humanos, um único povo de uma única espécie. Somos <a href="">Sapiens</a>, a última espécie sobrevivente da linhagem Homo. Temos a enorme responsabilidade de manter a evolução em curso para garantir o surgimento e sobrevivência da próxima espécie. Temos o dever de deixar um mundo melhor para nossos descendentes.</p>
+<p align="justify">O mundo tornou-se bastante caótico e complexo nas últimas décadas, hiperconectado e em rápida mudança, mas com uma tenebrosa “vibe negativa” decorrente da ascensão da extrema direita em vários países. Depois de milênios de civilização ainda temos guerras, massacres, genocídios, crimes hediondos, violações de direitos humanos, etc. Na minha opinião, esquecemos o mais importante ao longo da história: somos todos humanos, um único povo de uma única espécie. Somos <a href="">Sapiens</a>, a última espécie sobrevivente da linhagem Homo. Temos a enorme responsabilidade de manter a evolução em curso para garantir o surgimento e sobrevivência da próxima espécie. Temos o dever de deixar um mundo melhor para nossos descendentes.</p>
 
 <p align="justify">Ao longo desta terrível pandemia, o assombroso número de mortes nos fez lembrar que a vida humana é como uma vela acesa bastando um sopro para se apagar. Diante disso, resolvi colocar em prática um sonho antigo na área de direitos humanos. O nome da iniciativa é "Sapiens Unidos"; a ideia é atuar nas relações internacionais entre países para resguardar democracias em risco. À medida que mais países se tornem membros, esta iniciativa poderia evoluir para uma organização intergovernamental, visando promover a cooperação e troca de experiências entre países com políticas verdadeiramente social-democráticas. Países que tenham um compromisso estabelecido juridicamente com a democracia e que pretendam se manter livres do autoritarismo ou qualquer outro "ismo" que ameace sua democracia.</p>
 
 ```
      ------ NÓS, OS SAPIENS ------
 
-     NÓS SOMOS SAPIENS
+     TODOS NÓS SOMOS SAPIENS
      UM SÓ POVO DE UMA SÓ ESPÉCIE
      JUNTOS SEREMOS MAIS FORTES
      UNIDOS SEREMOS INVENCÍVEIS
@@ -54,7 +52,7 @@
 
 <p align="justify">Comentei com alguns amigos e resolvemos criar um grupo para apostar com bolões. Aos poucos fui melhorando o Lothon e começamos a acertar mais e ganhar alguns prêmios menores, principalmente na loteria "Dia de Sorte", onde a probabilidade de acerto é um pouco mais favorável. Com o tempo, criamos um "Clube da Sorte" e ampliamos o número de apostadores para custear um número maior de dezenas nos jogos e mirar nos prêmios maiores. Sempre apostando apenas nas loterias "Dia de Sorte" e "Lotofácil".</p>
 
-<p align="justify">Esta aventura acabou evoluindo para um humilde empreendimento no segmento de entretenimento, mais especificamente loterias e apostas esportivas: uma "Gambling Tech Startup". O nome deste empreendimento é "<a href="https://www.loto365.com.br" target="_blank">Loto365 • Clube da Sorte"</a> e já está em funcionamento. É possível apostar nas loterias da Caixa Econômica Federal nos 365 dias do ano, de forma 100% online. Caso seja contemplado em alguma aposta, o valor de rateio será depositado automaticamente na conta-corrente do participante. Confira lá e participe dos nossos bolões. Restrito a 18+.</p>
+<p align="justify">Esta aventura acabou evoluindo para um humilde empreendimento no segmento de entretenimento, mais especificamente loterias e apostas esportivas: uma "Gambling Tech Startup". O nome deste empreendimento é "<a href="https://www.loto365.com.br" target="_blank">Loto365 • Clube da Sorte"</a> e já está em funcionamento. É possível apostar nas loterias da Caixa Econômica Federal nos 365 dias do ano, de forma 100% online. Caso seja contemplado em alguma aposta, o valor de rateio será depositado automaticamente na conta corrente do participante. Confira lá e participe dos nossos bolões. Restrito a 18+.</p>
 
 - - -
 <br />
