@@ -56,7 +56,7 @@
     UM POR TODOS E TODOS POR UM
 ```
 
-<p align="justify">Iniciei uma <a href="https://github.com/United-Sapiens">Organização no GitHub</a> para hospedar os trabalhos da iniciativa. Também criei o mantra "Nós, Os Sapiens", este pequeno texto na forma de poema disposto acima, para tentar "plantar a ideia" de que um mundo melhor é possível. Vou tentar contribuir com o que sei fazer, programando e redigindo a documentação do projeto. Todo software implementado será disponibilizado como software livre e open source (domínio público). Você também pode contribuir, mas só se você quiser. De qualquer forma, seus comentários e sugestões são sempre bem-vindos.</p>
+<p align="justify">Iniciei uma <a href="https://github.com/United-Sapiens">Organização no GitHub</a> para hospedar os trabalhos da iniciativa. Também criei o mantra "Nós, Os Sapiens", este pequeno texto disposto acima na forma de poema, para tentar "plantar a ideia" de que um mundo melhor é possível. Vou tentar contribuir com o que sei fazer, programando e redigindo a documentação do projeto. Todo software implementado será disponibilizado como software livre e open source (domínio público). Você também pode contribuir, mas só se você quiser. De qualquer forma, seus comentários e sugestões são sempre bem-vindos.</p>
 
 <p>
     <a href="https://www.github.com/united-sapiens"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height=32></a> &nbsp;&nbsp;
