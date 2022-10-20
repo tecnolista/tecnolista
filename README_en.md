@@ -24,17 +24,17 @@
 <p align="justify">Throughout this terrible pandemic, the staggering number of deaths reminded us that human life is like a lit candle, with just one breath to go out. In view of this, I decided to put into practice an old dream in the area of human rights. The name of the initiative is "Sapiens United"; the idea is to act in international relations between countries to protect democracies at risk. As more countries become members, this initiative could evolve into an intergovernmental organization, aiming to promote cooperation and exchange of experiences between countries with truly social-democratic policies. Countries that have a legally established commitment to democracy and that intend to remain free from authoritarianism or any other "ism" that threatens their democracy.</p>
 
 ```
-     ------ WE THE SAPIENS ------
+    ------- WE THE SAPIENS -------
 
-     WE ALL ARE SAPIENS
-     ONE PEOPLE OF ONE SPECIES
-     TOGETHER WE'LL BE STRONGER
-     UNITED WE'LL BE INVINCIBLE
+    WE ALL ARE SAPIENS
+    ONE PEOPLE OF ONE SPECIES
+    TOGETHER WE'LL BE STRONGER
+    UNITED WE'LL BE INVINCIBLE
 
-     NO ONE SHALL EVER DIVIDE US
-     BY RACE, CASTE OR RELIGION
-     OUR UNION WILL BECOME LEGION
-     ONE FOR ALL AND ALL FOR ONE
+    NO ONE SHALL EVER DIVIDE US
+    BY RACE, CAST OR RELIGION
+    OUR UNION WILL BECOME LEGION
+    ONE FOR ALL AND ALL FOR ONE
 ```
 
 <p align="justify">I started an <a href="https://github.com/United-Sapiens">Organization on GitHub</a> to host the initiative's work. I also created the mantra "We, The Sapiens", a short text in the form of a poem, to try to "plant the idea" that a better world is possible. I will try to contribute with what I know how to do, programming and writing the project documentation. All implemented software will be made available as free and open source software (public domain). You can also contribute, but only if you want to. Anyway, your comments and suggestions are always welcome.</p>
