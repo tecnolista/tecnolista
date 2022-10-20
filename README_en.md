@@ -4,7 +4,7 @@
 
 # <img src="https://raw.githubusercontent.com/tecnolista/tecnolista/main/assets/hand-waving.gif" width="30px">&nbsp; Hello World!
 
-<p align="justify">Welcome to my developer page on GitHub! My name is Raul Bras and I currently live in this surreal country we call Brazil. I have a degree in Information Technology (Computer Science) and I work in the Business Intelligence (BI) segment as a Full Stack Web Developer. In my free time, I like to study Data Science and practice Machine Learning using Python. You can contact me on any of the social networks below.</p>
+<p align="justify">Welcome to my developer page on GitHub! My name is Raul Bras and I currently live in this surreal country we call Brazil. I have a degree in Information Technology (IT) and I work in the Business Intelligence (BI) segment as a Full Stack Web Developer. In my free time, I like to study Data Science and practice Machine Learning using Python. You can contact me on any of the social networks below.</p>
 
 <p>
     <a href="https://www.facebook.com/tecnolista"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=32></a> &nbsp;&nbsp;
@@ -13,7 +13,7 @@
     <a href="https://www.t.me/Tecnolista"><img src="https://img.shields.io/badge/telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=32></a> &nbsp;&nbsp;
 </p>
 
- <p align="justify">By the way, you will not see my full name, birth date, home address, family photos, or any other personal data on these social networks. This is not public information that can be collected and sold by those big tech companies. Nor would I ever install any social network app on my phone. If you post your personal data on any social media, then consider watching this series produced by the newspaper "<a href="https://www.nytimes.com/">The New York Times</a>": <a href="https://www.nytimes.com/interactive/2019/09/23/opinion/data-privacy-jaron-lanier.html">JARON LANIER FIXES THE INTERNET</a>.</p>
+ <p align="justify">By the way, you will not see my full name, birth date, home address, family photos, or any other personal data on these social networks. This is not public information that can be collected and sold by those big tech companies. Nor would I ever install any social network app on my phone. If you post your personal data on any social media, then consider watching this series produced by the newspaper <a href="https://www.nytimes.com/">The New York Times</a> and available on their website: <a href="https://www.nytimes.com/interactive/2019/09/23/opinion/data-privacy-jaron-lanier.html">JARON LANIER FIXES THE INTERNET</a>.</p>
 <br />
 
 
