@@ -37,7 +37,7 @@
     ONE FOR ALL AND ALL FOR ONE
 ```
 
-<p align="justify">I started an <a href="https://github.com/United-Sapiens">Organization on GitHub</a> to host the initiative's work. I also created the mantra "We, The Sapiens", a short text in the form of a poem, to try to "plant the idea" that a better world is possible. I will try to contribute with what I know how to do, programming and writing the project documentation. All implemented software will be made available as free and open source software (public domain). You can also contribute, but only if you want to. Anyway, your comments and suggestions are always welcome.</p>
+<p align="justify">I started an <a href="https://github.com/United-Sapiens">Organization on GitHub</a> to host the initiative's work. I also created the mantra "We, The Sapiens", a short text in the form of a poem, to try to "plant the idea" that a better world is possible. I will try to contribute with what I know how to do, programming and writing the project documentation. All implemented software will be made available as free and open source software (public domain). You can also contribute, in any way you see fit. Anyway, your comments and suggestions are always welcome.</p>
 
 <p>
     <a href="https://www.github.com/united-sapiens"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height=32></a> &nbsp;&nbsp;
