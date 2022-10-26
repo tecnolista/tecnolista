@@ -25,7 +25,7 @@
 
 <p align="justify">Esta aventura acabou evoluindo para um humilde empreendimento no segmento de entretenimento, mais especificamente loterias e apostas esportivas. O nome deste empreendimento é <a href="https://www.loto365.com.br">Loto365 • Clube da Sorte</a> e já está em funcionamento. É possível apostar nas loterias da Caixa Econômica Federal nos 365 dias do ano, de forma 100% online. Caso seja contemplado em alguma aposta, o valor de rateio será depositado automaticamente na conta corrente do participante. Confira lá e participe dos nossos bolões. Restrito a 18+.</p>
 
-<p align="justify">O software Lothon não está à venda porque não é um produto em si, mas apenas uma ferramenta que tem nos auxiliado na geração dos jogos para nossas apostas. É um apanhado de cálculos estatísticos e probabilísticos programados em Python usando bibliotecas como Numpy, Pandas, SciPy, etc. Alguns amigos frequentemente me pediam para gerar palpites, pois sabiam que sair marcando números na cartela sem nenhum critério pode reduzir as chances. Acabei elaborando um pequeno autômato (bot) para realizar as gerações de palpites diariamente. Estes palpites são salvos numa pasta do Google Drive, e também apresentados em nosso site na seção "Palpites". Recentemente criei grupos no WhatsApp e Telegram onde envio estes palpites toda manhã. Deixo os links abaixo caso você tenha interesse em baixar os palpites ou participar destes grupos públicos.</p>
+<p align="justify">Alguns amigos frequentemente me pediam para gerar palpites, pois sabiam que sair marcando números na cartela sem nenhum critério pode reduzir as chances. Até que um certo amigo me confessou ter dificuldade em escolher números para apostar. Existe esta condição onde a pessoa tem muita dificuldade em manipular números ou realizar tarefas matemáticas, chamada Discalculia. Não tem a ver com inteligência, é apenas um transtorno de aprendizagem, e acomete em torno de 3% a 6% da população. Pensando nisso, acabei elaborando um pequeno autômato (bot) para realizar as gerações de palpites diariamente. Estes palpites são salvos numa pasta do Google Drive, e apresentados em nosso site na seção "Palpites". Também criei grupos no WhatsApp e Telegram para enviar estes palpites toda manhã. Deixo os links abaixo caso você tenha interesse em baixar os palpites ou participar destes grupos públicos.</p>
 
 <p>
     <a href="https://www.loto365.com.br/#palpites"><img src="https://raw.githubusercontent.com/tecnolista/tecnolista/main/assets/loto365_icon.png" height=32></a> &nbsp;&nbsp;
@@ -33,6 +33,8 @@
     <a href="https://bit.ly/Loto365-WhatsApp"><img src="https://img.shields.io/badge/Grupo%20WhatsApp-%23128C7E.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" height=32></a> &nbsp;&nbsp;
     <a href="https://bit.ly/Loto365-Telegram"><img src="https://img.shields.io/badge/Canal%20Telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=32></a>
 </p>
+
+<p align="justify"><i>PS: O software Lothon não está à venda porque não é um produto em si, mas apenas uma ferramenta que tem nos auxiliado na geração dos jogos para nossas apostas. É um apanhado de cálculos estatísticos e probabilísticos programados em Python usando bibliotecas como Numpy, Pandas, SciPy, etc.</i></p>
 <br />
 
 
