@@ -7,8 +7,8 @@
 <p align="justify">Bem-vindo à minha página de desenvolvedor no GitHub! Meu nome é Raul Bras e atualmente eu moro neste país surreal que chamamos de Brasil. Sou formado na área de Tecnologia da Informação (TI) e atuo no segmento de Business Intelligence (BI) como Desenvolvedor Web Full Stack. Nas horas vagas eu costumo estudar Data Science e praticar Machine Learning. Você pode me contatar em qualquer das redes sociais abaixo.</p>
 
 <p>
+    <a href="https://www.twitter.com/United_Sapiens"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=32></a> &nbsp;&nbsp;
     <a href="https://www.facebook.com/tecnolista"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=32></a> &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/tecnolista"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=32></a> &nbsp;&nbsp;
     <a href="https://www.mql5.com/en/users/tecnolista"><img src="https://img.shields.io/badge/MQL5-%234A76B8.svg?&style=for-the-badge&logo=junit5&logoColor=white" height=32></a> &nbsp;&nbsp;
     <a href="https://www.t.me/Tecnolista"><img src="https://img.shields.io/badge/telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=32></a>
 </p>
@@ -50,13 +50,6 @@
 ```
 
 <p align="justify">Iniciei uma <a href="https://github.com/United-Sapiens">Organização no GitHub</a> para hospedar os trabalhos da iniciativa. Também criei o mantra "Nós, Os Sapiens", este pequeno texto disposto acima na forma de poema, para tentar "plantar a ideia" de que um mundo melhor é possível. Vou tentar contribuir com o que sei fazer, programando e redigindo a documentação do projeto. Todo software implementado será disponibilizado como código livre e open source (domínio público). Você também pode contribuir, da maneira que achar melhor. De qualquer forma, seus comentários e sugestões são sempre bem-vindos.</p>
-
-<p>
-    <a href="https://www.github.com/united-sapiens"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height=32></a> &nbsp;&nbsp;
-    <a href="https://www.twitter.com/United_Sapiens"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=32></a> &nbsp;&nbsp;
-    <a href="https://www.instagram.com/united_sapiens"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=32></a> &nbsp;&nbsp;
-    <a href="https://www.youtube.com/channel/UCUf4NOsEr_0pMNMKK25CPAg"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=32></a>
-</p>
 
 - - -
 <br />
