@@ -17,18 +17,6 @@
 <br />
 
 
-# :four_leaf_clover:&nbsp; Loto365 • Palpites da Sorte
-
-<p align="justify">Você aposta em Loterias? Pois é, eu tenho o hábito de apostar - aquela fezinha semanal inocente. Aí depois que entrei na área de BI a coisa ficou mais séria - resolvi melhorar meus palpites aplicando o que aprendi nos cursos de estatística e ciência de dados. Cheguei até a desenvolver um software (Lothon - Loteria em Python) para gerar palpites de apostas tentando filtrar as dezenas com maior probabilidade de sorteio e outros cálculos matemáticos mirabolantes.</p>
-
-<p align="justify">Um colega de trabalho também tinha o hábito de apostar e costumava promover grupos de bolões entre amigos. Recentemente estávamos ambos desempregados, em virtude da pandemia. Resolvemos agregar ideias e fazer algo mais organizado, com machine learning e inteligência artificial. Aos poucos fomos melhorando o Lothon e começamos a acertar mais e ganhar alguns prêmios menores, principalmente nas loterias "Dia de Sorte" e "Lotofácil", onde a probabilidade de acerto é um pouco mais favorável.</p>
-
-<p align="justify">Alguns conhecidos frequentemente nos pediam para gerar palpites, pois sabiam que sair marcando números na cartela sem nenhum critério poderia reduzir as chances. Até que um amigo me confessou ter dificuldade em escolher números para apostar. Existe esta condição onde a pessoa tem muita dificuldade em manipular números ou realizar tarefas matemáticas, chamada Discalculia. Não tem a ver com inteligência, é apenas um transtorno de aprendizagem, e acomete em torno de 3% a 6% da população. Pensando nisso, acabei implementando um pequeno autômato (bot) para realizar as gerações de palpites diariamente, juntamente com site bem simples para facilitar a visualização dos palpites. Caso você tenha interesse em consultar os palpites, o endereço é: <a href="https://www.Loto365.com.br/">www.Loto365.com.br</a>.</p>
-
-<p align="justify"><i>PS: O software Lothon não está à venda porque não é um produto em si, mas apenas uma ferramenta que tem nos auxiliado na geração dos jogos para nossas apostas. É um apanhado de cálculos estatísticos e probabilísticos programados em Python usando bibliotecas como Numpy, Pandas, SciPy, etc.</i></p>
-<br />
-
-
 # <img src="https://raw.githubusercontent.com/tecnolista/tecnolista/main/assets/unsap-icon.png" height="24px">&nbsp; A Iniciativa [Sapiens Unidos](https://www.united-sapiens.org/)
 
 <p align="justify">O mundo tornou-se bastante caótico e complexo nas últimas décadas, hiperconectado e em rápida mudança, mas com uma tenebrosa “vibe negativa” decorrente da ascensão da extrema-direita em vários países. Depois de milênios de civilização ainda temos guerras, massacres, genocídios, crimes hediondos, violações de direitos humanos, etc. Na minha opinião, esquecemos o mais importante ao longo da história: somos todos humanos, um único povo de uma única espécie. Somos Sapiens, a última espécie sobrevivente da linhagem Homo. Temos a enorme responsabilidade de manter a evolução em curso para garantir o surgimento e sobrevivência da próxima espécie. Temos o dever de deixar um mundo melhor para nossos descendentes.</p>
